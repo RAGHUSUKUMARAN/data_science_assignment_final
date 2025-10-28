@@ -12,14 +12,27 @@ This repository contains my Data Science and Machine Learning assignments, built
 
 ASSIGNMENTS/
 │
-├── 1 EDA/
-├── 2 Encoding Techniques/
-├── 3 KNN Classification/
-├── 4 Decision Tree/
-├── 5 Random Forest, Bagging & Boosting/
-├── 6 SVM/
-├── 7 Logistic Regression/
-└── More coming soon 🚀
+├── 1 basic stats level 1/
+├── 2 basic stats 2/
+├── 3 basics of python/
+├── 4 hypothesis testing/
+├── 5 EDA1/
+├── 6 MLR/
+├── 7 logistic regression/
+├── 8 clustering/
+├── 9 PCA/
+├── 10 association rules/
+├── 11 recommendation system/
+├── 12 EDA2/
+├── 13 decision tree/
+├── 14 random forest/
+├── 15 XGBM & LGBM/
+├── 16 KNN/
+├── 17 SVM/
+├── 18 neural networks/
+├── 19 naive bayes and text mining/
+└── 20 timeseries/
+
 
 ````
 
